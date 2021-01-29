@@ -83,7 +83,7 @@ Abre tu config.js y encuentra un pequeño espacio en blanco, te daré un ejemplo
 
 ```bash
 case 'NombreDeComando':
-    await kill.reply(from, 'Su mensaje', id)
+    await kill.reply(from, 'SuMensaje', id)
     break
  ```
  

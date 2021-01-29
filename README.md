@@ -82,7 +82,7 @@ Escriba en su chat el mensaje:
 Abre tu config.js y encuentra un pequeño espacio en blanco, te daré un ejemplo de una respuesta simple, ve a probarlo como quieras, a otros tipos, puedes ver cuáles [aqui](https://docs.openwa.dev/classes/client.html) y en caso de duda Hablame por [aqui](https://facebook.com/ThonyDroidYt) o [aqui](https://t.me/Thony_DroidYT).
 
 ```bash
-case 'Nombre del comando sin espacios':
+case 'NombreDeComando':
     await kill.reply(from, 'Su mensaje', id)
     break
  ```

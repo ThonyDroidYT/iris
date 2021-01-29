@@ -1,13 +1,10 @@
-### Íris, un BOT(y ademas asi se llama mi gatita:)
-Un bot en portugués (PERO TRADUCIDO POR TU PAPI SAMU330) hecho todo el mundo, con cientos de comandos que sigue creciendo.
+### Íris, Un bot en portugués (PERO TRADUCIDO POR ThonyDroidYT) hecho para todo el mundo, con cientos de comandos que sigue creciendo.
 Pido disculpas por cualquier error que pueda aparecer, los corregiré lo antes posible, y lo siento si hay sesiones sin editar que deban editarse, lo subí sobre la marcha.
 
-## <img src="https://i.pinimg.com/originals/d2/14/1b/d2141b114b14198ede9b3ee4f4100520.gif" width="60px"> I'm Samu330
-<p align="center">
-    
-## Me encantan los gatitos, a ti igual? suscribete a mi canal entonces:) dando click [aqui](https://www.youtube.com/channel/UCqPXxG2ZdDe_ugOqMHDRMqg)
+## <img src="https://i.pinimg.com/originals/d2/14/1b/d2141b114b14198ede9b3ee4f4100520.gif" width="60px"> I'm THONY.DROID
+<p align="center"> 
 
-### Funciones (no todas)
+### Funciones (No todas Funcionan)
 
 | Función | Contiene|
 | ------------- | ------------- |

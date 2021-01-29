@@ -89,7 +89,7 @@ case 'Nombre del comando sin espacios':
  
 ### Errores
 Si nota errores, encuéntreme en el grupo a continuación, envíe un mensaje en WhatsApp o informe sobre problemas y, por supuesto, asegúrese de tener Chrome instalado.
-En Windows descargar por [aqui](https://www.google.com/chrome), en Linux use los siguientes comandos.
+En Windows descargar por [aqui](https://www.google.com/chrome), En Linux use los siguientes comandos.
 
 ```bash
 > wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb

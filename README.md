@@ -114,13 +114,13 @@ Edite las API que se encuentran en:
 - ¡Les agradezco sinceramente sus excelentes API!
 
 ## Dar Suporte [Proyecto Oficial]
-# LucasR (Killov)
+LucasR (KillovSky)
 - [Doações] - Ajude-me a criar comandos, doe algo pelo PicPay ❤️ - [Doar](https://picpay.me/userlucas123)
 - [Grupo Oficial] - Não somos grupos de travas - [Entrar](https://chat.whatsapp.com/H53MdwhtnRf7TGX1VJ2Jje)
 - [Dono] - Se precisar falar comigo - [Falar](https://wa.me/+5518998044132)
 #
 ## Dar Suporte [Proyecto Modificado]
-# THONY.DROID
+ThonyDroidYT  (THONY.DROID 2.0)
 - [Donaciones] - Ajude-me a criar comandos, doe algo pelo PicPay ❤️ - [Donar](https://picpay.me/userlucas123)
 - [Grupo Oficial] - No somos grupos de travas o virus - [Entrar](https://chat.whatsapp.com/H53MdwhtnRf7TGX1VJ2Jje)
 - [Dueño] - Si Desea hablar Conmigo - [Hablar](https://t.me/Thony_DroidYT)

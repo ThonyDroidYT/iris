@@ -111,7 +111,7 @@ Edite las API que se encuentran en:
 - [WA-Automate](https://github.com/open-wa/wa-automate-nodejs)
 - [ArugaZ](https://github.com/ArugaZ/whatsapp-bot)
 - [MhankBarBar](https://github.com/MhankBarBar/whatsapp-bot)
-- [KillovSky](https://github.com/Samu330)
+- [KillovSky](https://github.com/KillovSky)
 - [Samu330](https://github.com/Samu330)
 - ¡Les agradezco sinceramente sus excelentes API!
 

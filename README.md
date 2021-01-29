@@ -10,7 +10,7 @@ Pido disculpas por cualquier error que pueda aparecer, los corregiré lo antes p
 
 | Función | Contiene|
 | ------------- | ------------- |
-| Downloads (Redes-Sociais e YouTube) |✅|
+| Descargas (Redes-Sociales e YouTube) |✅|
 | Conversar por texto/voz Sim-Simi/Local (ilimitado) |✅|
 | Buscar/fotos de animes |✅|
 | Wikipedia |✅|
@@ -20,19 +20,19 @@ Pido disculpas por cualquier error que pueda aparecer, los corregiré lo antes p
 | Buscar anime por foto |✅|
 | Stickers em imagem |✅|
 | Ataques SMS |✅|
-| Mandar mensagens a outro PV (por comando) |✅|
+| Mandar mensajes otro PV (por comando) |✅|
 | Comandos de zoeira |✅|
-| Prints de tela e sites |✅|
-| Geração de textos |✅|
-| Mensagem para Todos |✅|
-| Sair de tudo |✅|
-| Deletar todas as mensagens |✅|
+| Captura de Pantalla y sitios |✅|
+| Generación de textos |✅|
+| Mensage para Todos |✅|
+| Salir de todo |✅|
+| Deletar todas los mensajes |✅|
 | Revogar links de grupo|✅|
-| Adicionar/remover pessoas |✅|
+| Agregar/remover personas |✅|
 | Tirar ADM |✅|
-| Anti porno/enlaces de grupo | ✅ |
+| Anti-Porno/Anti-Enlaces de grupo | ✅ |
 | Etiqueta engomada / etiqueta engomada GIF | ✅ |
-| Pegatinas sin fondo / Por palabra / Enlace | ✅ |
+| Stickers/Pegatinas sin fondo / Por palabra / Enlace | ✅ |
 | Meme maker / Catch memes | ✅ |
 | Búsqueda de Pinterest | ✅ |
 | Construcción de "diario" en la foto | ✅ |
@@ -49,7 +49,7 @@ Pido disculpas por cualquier error que pueda aparecer, los corregiré lo antes p
 | Eliminar mensajes del bot | ✅ |
 | Eliminar todo | ✅ |
 | Encuestas (Urna) | ✅ |
-| Foto de niñas, monos, etc. | ✅ |
+| Foto de animes, monos, etc. | ✅ |
 | Información de grupo / perfil | ✅ |
 | Otros (la lista tiene más de 100) | ✅ |
 
@@ -57,8 +57,8 @@ Pido disculpas por cualquier error que pueda aparecer, los corregiré lo antes p
 Necesita tener este repositorio, es simple, ejecute los comandos a continuación.
 
 ```bash
-> git clone https://github.com/Samu330/Sm330-botwa
-> cd Sm330-botwa
+> git clone https://github.com/ThonyDroidYT/iris
+> cd iris
 > npm i
 > npm install gify-cli
 ```

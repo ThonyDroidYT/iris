@@ -10,7 +10,7 @@ Pido disculpas por cualquier error que pueda aparecer, los corregiré lo antes p
 | ------------- | ------------- |
 | Downloads (Redes-Sociais e YouTube) |✅|
 | Conversar por texto/voz Sim-Simi/Local (ilimitado) |✅|
-| Busca/fotos de animes |✅|
+| Buscar/fotos de animes |✅|
 | Wikipedia |✅|
 | Brainly |✅|
 | Nasa |✅|
@@ -76,7 +76,7 @@ Escriba en su chat el mensaje:
 ```
 
 ### Crea tus comandos
-Abre tu config.js y encuentra un pequeño espacio en blanco, te daré un ejemplo de una respuesta simple, ve a probarlo como quieras, a otros tipos, puedes ver cuáles [aqui](https://docs.openwa.dev/classes/client.html) y en caso de duda llámame por [aqui](https://facebook.com/tupapi.samu330) o [aqui](https://wa.me/+529984907794).
+Abre tu config.js y encuentra un pequeño espacio en blanco, te daré un ejemplo de una respuesta simple, ve a probarlo como quieras, a otros tipos, puedes ver cuáles [aqui](https://docs.openwa.dev/classes/client.html) y en caso de duda Hablame por [aqui](https://facebook.com/ThonyDroidYt) o [aqui](https://t.me/Thony_DroidYT).
 
 ```bash
 case 'Nombre del comando sin espacios':
@@ -111,7 +111,7 @@ Edite las API que se encuentran en:
 - [Samu330](https://github.com/Samu330)
 - ¡Les agradezco sinceramente sus excelentes API!
 
-## Doar e Suporte
+## Dar Suporte
 - [Doações] - Ajude-me a criar comandos, doe algo pelo PicPay ❤️ - [Doar](https://picpay.me/userlucas123)
 - [Grupo Oficial] - Não somos grupos de travas - [Entrar](https://chat.whatsapp.com/H53MdwhtnRf7TGX1VJ2Jje)
 - [Dono] - Se precisar falar comigo - [Falar](https://wa.me/+5518998044132)

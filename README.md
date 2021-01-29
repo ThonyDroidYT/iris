@@ -1,5 +1,4 @@
-## Iris,
-#
+# Iris
 Un bot en portugués (PERO TRADUCIDO POR ThonyDroidYT) hecho para todo el mundo, con cientos de comandos que sigue creciendo.
 Pido disculpas por cualquier error que pueda aparecer, los corregiré lo antes posible, y lo siento si hay sesiones sin editar que deban editarse, lo subí sobre la marcha.
 #

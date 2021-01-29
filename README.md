@@ -18,13 +18,14 @@ Pido disculpas por cualquier error que pueda aparecer, los corregiré lo antes p
 | Nasa |✅|
 | Letras de músicas/Acordes |✅|
 | Buscar anime por foto |✅|
-| Stickers em imagem |✅|
+| Sticker a imagen |✅|
+| Imagen a Sticker |✅|
 | Ataques SMS |✅|
 | Mandar mensajes otro PV (por comando) |✅|
 | Comandos de zoeira |✅|
 | Captura de Pantalla y sitios |✅|
 | Generación de textos |✅|
-| Mensage para Todos |✅|
+| Mensaje para Todos |✅|
 | Salir de todo |✅|
 | Deletar todas los mensajes |✅|
 | Revogar links de grupo|✅|

@@ -88,7 +88,7 @@ case 'NombreDeComando':
  ```
  
 ### Errores
-Si nota errores, encuéntreme en el grupo a continuación, envíe un mensaje en WhatsApp o informe sobre problemas y, por supuesto, asegúrese de tener Chrome instalado.
+Si nota errores, encuéntreme en el [Grupo](https://chat.whatsapp.com/C4PUL7gLsyH5C9VUoDKhp6) a continuación, envíe un mensaje en WhatsApp o informe sobre problemas y, por supuesto, asegúrese de tener Chrome instalado.
 En Windows descargar por [aqui](https://www.google.com/chrome), En Linux use los siguientes comandos.
 
 ```bash

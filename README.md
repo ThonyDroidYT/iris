@@ -120,7 +120,7 @@ LucasR (KillovSky)
 - [Dono] - Se precisar falar comigo - [Falar](https://wa.me/+5518998044132)
 #
 ## Dar Suporte [Proyecto Modificado]
-ThonyDroidYT  (THONY.DROID 2.0)
+THONY.DROID 2.0
 - [Donaciones] - Ajude-me a criar comandos, doe algo pelo PicPay ❤️ - [Donar](https://picpay.me/userlucas123)
 - [Grupo Oficial] - No somos grupos de travas o virus - [Entrar](https://chat.whatsapp.com/H53MdwhtnRf7TGX1VJ2Jje)
 - [Dueño] - Si Desea hablar Conmigo - [Hablar](https://t.me/Thony_DroidYT)

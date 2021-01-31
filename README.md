@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ThonyDroidYT/iris/blob/main/lib/media/img/iris.png" width="130" height="130"/>
+<img src="https://github.com/ThonyDroidYT/iris/blob/main/lib/media/img/iris.png" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="IrisBOT" src="https://img.shields.io/badge/IrisBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>

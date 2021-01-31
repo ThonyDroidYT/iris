@@ -4,7 +4,7 @@
 <p align="center">
 <a href="#"><img title="IrisBOT" src="https://img.shields.io/badge/IrisBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-Un bot en portugués (PERO TRADUCIDO POR) [THONY.DROID](https://t.me/http://www.thonydroidmods.ga)
+Un bot en portugués "PERO TRADUCIDO POR" [THONY.DROID](http://www.thonydroidmods.ga)
 Hecho para todo el mundo, con cientos de comandos que sigue creciendo.
 Pido disculpas por cualquier error que pueda aparecer, los corregiré lo antes posible, y lo siento si hay sesiones sin editar que deban editarse, lo subí sobre la marcha.
 
